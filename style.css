@@ -25,6 +25,7 @@ padding-left: 8%;
 }
 section{
 height: 460px;
+padding-bottom: 100px;
 }
 .button{
     text-decoration: none;
@@ -33,3 +34,9 @@ height: 460px;
     color: white;
     padding: 10px 20px;
     }
+   .dream-big{
+       background-image: url(images/dream-bg.png);
+       background-repeat: no-repeat;
+       background-position: right;
+   }
+    
